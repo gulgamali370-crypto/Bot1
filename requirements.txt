@@ -1,0 +1,4 @@
+python-telegram-bot[job-queue]==20.8
+aiohttp==3.9.1
+requests==2.31.0
+phonenumbers==8.13.27
