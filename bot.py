@@ -568,7 +568,7 @@ class TelegramOTPFetcher:
 if __name__ == '__main__':
     # Initialize and run the bot
     bot = TelegramOTPFetcher(
-        bot_token="8599331345:AAG_Xv_RwIRwtR9AQfyGDkzm87ZFKh5Vixw",
+        bot_token="8407729599:AAGbp2FuklK5iX0GEM4zR2FHpmXm9UwYcuQ",
         chat_id="-1003457861866",
         api_key="3c67b3b26346c934d0e85e9bc71679b685f87a6b702112047bc0c3d11e440692"
     )
